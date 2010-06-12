@@ -1,0 +1,5 @@
+Presence: your friends online on Elgg, Twitter and Facebook
+
+1. Install twitterlogin and fblink Elgg plugins (http://github.com/dunglas/);
+2. Put the presence directory into your mod directory of your Elgg installation
+3. Enable the plugin from the Administration page
